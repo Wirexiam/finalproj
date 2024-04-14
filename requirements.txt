@@ -3,9 +3,4 @@ pandas
 numpy
 seaborn
 matplotlib
-openpyxlstreamlit
-pandas
-numpy
-seaborn
-matplotlib
 openpyxl
